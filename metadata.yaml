@@ -24,6 +24,9 @@ contributor:
     gutenberg_agent_id: '37286'
     url: http://www.gutenberg.org/2009/agents/37286
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Creswick
+covers:
+- cover_type: archival
+  image_path: 71470-h/images/cover.jpg
 creator:
   author:
     agent_name: Southey, Robert
@@ -33,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/488
     wikipedia: https://en.wikipedia.org/wiki/Robert_Southey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71470#Roderick-the-last-of-the-Goths-b-A-tragic-poem
 gutenberg_issued: '2023-08-22'
 identifiers:
   gutenberg: '71470'
